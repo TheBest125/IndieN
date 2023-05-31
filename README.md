@@ -1,5 +1,7 @@
 # IndieNoMo
 
+Made by KevinBruyne
+
 [IndieNoMo live][heroku]
 
 [heroku]: https://indienomo.herokuapp.com/
